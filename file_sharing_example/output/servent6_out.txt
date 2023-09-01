@@ -1,0 +1,11 @@
+18:01:21 - Starting servent [6|localhost|1070]
+18:01:21 - Pausing for 150000 ms
+18:01:37 - Got message BasicMessage{type=SUZUKI_ASK_TOKEN, originalSenderInfo=[2|localhost|1250], receiverInfo=[6|localhost|1070], routeList=[], messageText='', id=1, fileInfo=null, name='', updateFiles={}, tokenWant=[2], files={}, messageId=0}
+Ovo je id koji dodajemo u nasu listu cekanja 2
+18:01:38 - Got message BasicMessage{type=REMOVE, originalSenderInfo=[1|localhost|1190], receiverInfo=[6|localhost|1070], routeList=[], messageText='', id=2, fileInfo=null, name='', updateFiles={}, tokenWant=[], files={}, messageId=0}
+18:01:38 - Got message BasicMessage{type=SUZUKI_ASK_TOKEN, originalSenderInfo=[0|localhost|1010], receiverInfo=[6|localhost|1070], routeList=[], messageText='', id=1, fileInfo=null, name='', updateFiles={}, tokenWant=[0], files={}, messageId=1}
+Ovo je id koji dodajemo u nasu listu cekanja 0
+18:01:39 - Got message BasicMessage{type=SUZUKI_ASK_TOKEN, originalSenderInfo=[1|localhost|1190], receiverInfo=[6|localhost|1070], routeList=[], messageText='', id=1, fileInfo=null, name='', updateFiles={}, tokenWant=[1], files={}, messageId=2}
+Ovo je id koji dodajemo u nasu listu cekanja 1
+18:01:40 - Got message BasicMessage{type=REMOVE, originalSenderInfo=[2|localhost|1250], receiverInfo=[6|localhost|1070], routeList=[], messageText='', id=0, fileInfo=null, name='', updateFiles={}, tokenWant=[], files={}, messageId=1}
+18:03:51 - Stopping...

@@ -1,0 +1,4 @@
+pause 15000
+add test1.txt
+pause 15000
+stop

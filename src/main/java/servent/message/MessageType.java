@@ -1,0 +1,5 @@
+package servent.message;
+
+public enum MessageType {
+	POISON,SUZUKI_TOKEN,SUZUKI_ASK_TOKEN,UPDATE,ASK_FOR_FILE,RETURN_FILE_INFO,REMOVE
+}

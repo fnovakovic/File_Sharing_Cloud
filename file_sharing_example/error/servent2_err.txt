@@ -1,0 +1,8 @@
+18:01:21 - MUTEX JE mutex.SuzukiTokenMutex@76bd0b3d
+18:01:37 - Couldn't send message: BasicMessage{type=SUZUKI_ASK_TOKEN, originalSenderInfo=[2|localhost|1250], receiverInfo=[4|localhost|1050], routeList=[], messageText='', id=1, fileInfo=null, name='', updateFiles={}, tokenWant=[2], files={}, messageId=0}
+18:01:37 - Couldn't send message: BasicMessage{type=SUZUKI_ASK_TOKEN, originalSenderInfo=[2|localhost|1250], receiverInfo=[3|localhost|1040], routeList=[], messageText='', id=1, fileInfo=null, name='', updateFiles={}, tokenWant=[2], files={}, messageId=0}
+18:01:38 - Couldn't send message: BasicMessage{type=SUZUKI_ASK_TOKEN, originalSenderInfo=[2|localhost|1250], receiverInfo=[5|localhost|1060], routeList=[], messageText='', id=1, fileInfo=null, name='', updateFiles={}, tokenWant=[2], files={}, messageId=0}
+18:01:39 - File C:\Users\filip\Downloads\KiDS-Domaci2-kostur\KiDS-Domaci2-kostur\files/test1.txt doesn't exist.
+18:01:40 - Couldn't send message: BasicMessage{type=REMOVE, originalSenderInfo=[2|localhost|1250], receiverInfo=[3|localhost|1040], routeList=[], messageText='', id=0, fileInfo=null, name='', updateFiles={}, tokenWant=[], files={}, messageId=1}
+18:01:40 - Couldn't send message: BasicMessage{type=REMOVE, originalSenderInfo=[2|localhost|1250], receiverInfo=[4|localhost|1050], routeList=[], messageText='', id=0, fileInfo=null, name='', updateFiles={}, tokenWant=[], files={}, messageId=1}
+18:01:41 - Couldn't send message: BasicMessage{type=REMOVE, originalSenderInfo=[2|localhost|1250], receiverInfo=[5|localhost|1060], routeList=[], messageText='', id=0, fileInfo=null, name='', updateFiles={}, tokenWant=[], files={}, messageId=1}
